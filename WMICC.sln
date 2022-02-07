@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMICC", "WMICC\WMICC.csproj", "{2C1CA6D6-6A6F-49DF-B0A8-4AC962DF316F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1CA6D6-6A6F-49DF-B0A8-4AC962DF316F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1CA6D6-6A6F-49DF-B0A8-4AC962DF316F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1CA6D6-6A6F-49DF-B0A8-4AC962DF316F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1CA6D6-6A6F-49DF-B0A8-4AC962DF316F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E70453-D65F-46F9-8190-B0024149C644}
+	EndGlobalSection
+EndGlobal
