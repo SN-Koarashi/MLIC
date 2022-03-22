@@ -11,7 +11,7 @@ It will return data in following:
 * Minecraft Display Version
 * Launcher Name
 * Game Path
-* Mod Folder Files (Not includes subfolders files)
+* Mod Folder Files (Excluding subfolders files)
 
 ## 中文
 根據 Minecraft 的啟動參數判斷連線到的伺服器所使用的客戶端資訊。
